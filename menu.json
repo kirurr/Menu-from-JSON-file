@@ -1,0 +1,50 @@
+{
+  "mamaMenu": {
+    "name": "Mama menu",
+    "url": "#"
+  },
+  "mainMenu": {
+    "name": "Main menu",
+    "url": "#",
+    "subMenu": {
+      "firstSubMenu": {
+        "name": "First sub menu",
+        "url": "#"
+      },
+      "secondSubMenu": {
+        "name": "Second sub menu",
+        "url": "#",
+        "subMenu": {
+          "subSubMenu": {
+            "name": "Sub sub menu",
+            "url": "#",
+            "subMenu": {
+              "subSubSubMenu": {
+                "name": "sus",
+                "url": "#"
+              }
+            }
+          },
+          "subSSubMenu": {
+            "name": "Sub sub menu",
+            "url": "#",
+            "subMenu": {
+              "subSubSubMenu": {
+                "name": "sus",
+                "url": "#"
+              }
+            }
+          }
+        }
+      },
+      "thirdSubmenu": {
+        "name": "Third sub menu",
+        "url": "#"
+      }
+    }
+  },
+  "secondMenu": {
+    "name": "Second menu",
+    "url": "#"
+  }
+}
